@@ -1,4 +1,4 @@
-/* Exercício 01 – Equação Segundo Grau
+/* Exercício 03 – Equação Segundo Grau
 * Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
 */
 

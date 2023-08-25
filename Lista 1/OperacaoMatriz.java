@@ -1,3 +1,7 @@
+/* Exercício 04 – Operação Matriz
+* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
+*/
+
 import java.util.Scanner;
 
 public class OperacaoMatriz {

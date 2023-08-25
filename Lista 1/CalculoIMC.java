@@ -1,4 +1,4 @@
-/* Exercício 01 – Calculo IMC
+/* Exercício 02 – Calculo IMC
 * Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
 */
 

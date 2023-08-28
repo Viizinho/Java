@@ -1,10 +1,6 @@
-/* Exercício 07 – Potência
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
 import java.util.Scanner;
 
-public class Potencia {
+public class Potentiation {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         double base, resultado=1;

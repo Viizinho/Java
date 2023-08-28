@@ -1,10 +1,6 @@
-/* Exercício 02 – Calculo IMC
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
 import java.util.Scanner;
 
-public class CalculoIMC {
+public class BMI_Calculator {
     public static void main(String[] args) {
         double altura, peso, imc;
         Scanner scanner = new Scanner(System.in);

@@ -1,10 +1,6 @@
-/* Exercício 03 – Equação Segundo Grau
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
 import java.util.Scanner;
 
-public class EquacaoSGrau {
+public class Quadratic {
     public static void main (String[] args){
         double a, b, c, delta, r1, r2;
         Scanner scanner = new Scanner(System.in);

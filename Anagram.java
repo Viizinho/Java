@@ -1,11 +1,6 @@
-/* Exercício 08 – É Anagrama
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
-
 import java.util.Scanner;
 
-public class EhAnagrama {
+public class Anagram {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         String palavra1, palavra2;

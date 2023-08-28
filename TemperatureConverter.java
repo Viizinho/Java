@@ -1,10 +1,6 @@
-/* Exercício 01 – Conversor Temperatura
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
 import java.util.Scanner;
 
-public class ConversorTemperatura {
+public class TemperatureConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice;

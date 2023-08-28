@@ -1,10 +1,6 @@
-/* Exercício 06 – Validação de Senha
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
 import java.util.Scanner;
 
-public class ValidacaoSenha {
+public class PasswordValidation {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         String login, senha;

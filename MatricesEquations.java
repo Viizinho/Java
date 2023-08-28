@@ -1,10 +1,6 @@
-/* Exercício 04 – Operação Matriz
-* Aluno: João Vitor Cardoso Beltrão – Matricula: 20220006134
-*/
-
 import java.util.Scanner;
 
-public class OperacaoMatriz {
+public class MatricesEquations {
     public static void main (String[] args){
         int[][] matriz = new int[4][4];
         Scanner scanner = new Scanner(System.in);

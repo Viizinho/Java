@@ -1,3 +1,4 @@
+package Register;
 import java.util.Scanner;
 
 public class Registrer {

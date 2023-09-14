@@ -1,3 +1,4 @@
+package Potentiation;
 import java.util.Scanner;
 
 public class Potentiation {

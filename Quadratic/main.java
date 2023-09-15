@@ -1,7 +1,7 @@
 package Quadratic;
 import java.util.Scanner;
 
-public class Quadratic {
+public class main {
     public static void main (String[] args){
         double a, b, c, delta, r1, r2;
         Scanner scanner = new Scanner(System.in);

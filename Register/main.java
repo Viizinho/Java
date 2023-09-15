@@ -1,7 +1,7 @@
 package Register;
 import java.util.Scanner;
 
-public class Registrer {
+public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         

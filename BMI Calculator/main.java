@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BMI_Calculator {
+public class main {
     public static void main(String[] args) {
         double altura, peso, imc;
         Scanner scanner = new Scanner(System.in);

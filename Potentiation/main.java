@@ -1,7 +1,7 @@
 package Potentiation;
 import java.util.Scanner;
 
-public class Potentiation {
+public class main {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         double base, resultado=1;

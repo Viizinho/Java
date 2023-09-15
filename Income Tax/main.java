@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IncomeTax {
+public class main {
     public static void main(String[] args) {
         double salarioBruto, salarioLiquido;
         Scanner scanner = new Scanner(System.in);

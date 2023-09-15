@@ -1,4 +1,4 @@
-public class FinancialAnalysis {
+public class main {
     public static void main(String[] args) {
         // Gastos mensais
         double gastoJaneiro = 15000.0;

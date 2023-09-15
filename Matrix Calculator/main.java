@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class MatrixCalculator {
+public class main {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int choice, N;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MatricesEquations {
+public class main {
     public static void main (String[] args){
         int[][] matriz = new int[4][4];
         Scanner scanner = new Scanner(System.in);

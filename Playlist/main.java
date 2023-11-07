@@ -61,7 +61,7 @@ class Playlist {
     }
 }
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Map<String, Playlist> playlists = new HashMap<>();
